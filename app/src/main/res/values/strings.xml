@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">tssrider</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="login">Вход/Регистрация</string>
+    <string name="copyright_notice">Copyright© 2020 Ecom42 All Rights reserved.</string>
+    <string name="alert_ok">OK</string>
+    <string name="alert_cancel">Отмена</string>
+    <string name="alert_retry">Повторить</string>
+    <string name="message_default_title">Сообщение</string>
+    <string name="message_enable_wifi">Нет интернет соединения</string>
+    <string name="message_permission_denied"><![CDATA[If you reject permission,you can not use this service  Please turn on permissions at [Setting] > [Permission]]]></string>
+    <string name="prompt_enable_gps">Вы хотите включить GPS?</string>
+    <string name="login_failed">Вход не удался.</string>
+
+
+    //Server
+    <string name="warning">Внимание</string>
+    <string name="error">Ошибка</string>
+    <string name="info">Информация</string>
+    <string name="error_408">Время запроса истекло.</string>
+    <string name="error_666">Произошла неизвестная ошибка.</string>
+    <string name="error_400">Error Happened During payment.</string>
+    <string name="error_404">Нет свободного такси.</string>
+    <string name="error_410">Ваша версия устарела. Обновить до новой версии.</string>
+    <string name="error_303">No Close Driver Found.</string>
+    <string name="error_901">Another payment request is waiting.</string>
+    <string name="error_902">Your credit isn\'t sufficient to request a payment.</string>
+    <string name="error_903">Your account is temporarily disabled due to not having sufficient credit.</string>
+</resources>
